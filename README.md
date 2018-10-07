@@ -1,4 +1,4 @@
-# Prostate segmentation in magnetic resonance using Unet
+# World model for prostate segmentation in magnetic resonance
  
 # Results
 
