@@ -1,4 +1,4 @@
-# World model for prostate segmentation in magnetic resonance
+# Prostate segmentation in magnetic resonance
  
 # Results
 
